@@ -23,7 +23,7 @@ Conclusion
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
 
 
-
+<img src="Folder/Attach-an-ISO.jpg">
 
 
  
